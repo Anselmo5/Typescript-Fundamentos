@@ -6,4 +6,3 @@ console.log(ident('asda'));
 console.log(ident(1));
 
 
-// Mas alem desse tipo de criar

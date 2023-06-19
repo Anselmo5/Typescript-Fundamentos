@@ -4,3 +4,5 @@ const lista: number[] = [1,2,3];
 const lista2: Array<string | number> = ['joão','Maria','Matheus'];
 const a = {nome: 'Matheus', idade: 29};
 //push adicionar
+
+
